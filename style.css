@@ -1,0 +1,39 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #eac696;
+}
+
+#about {
+  padding-top: 6rem;
+  background: #765827;
+  color: white;
+}
+
+#project {
+  background-color: #eac696;
+  padding-top: 5rem;
+}
+
+#gallery {
+  background-color: #765827;
+  padding-top: 5rem;
+  color: white;
+}
+
+
+#contact {
+  padding-top: 6rem;
+  background-color: #eac696;
+}
+
+.section {
+  padding-top: 5rem;
+}
+
+.gallery-img {
+    width: 100%;
+}
+
+#gallery .row > * {
+    padding: 0;
+}
